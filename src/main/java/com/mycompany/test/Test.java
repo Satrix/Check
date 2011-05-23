@@ -9,5 +9,5 @@ package com.mycompany.test;
  * @author Satrix
  */
 public class Test {
-    
+    private int a;
 }
